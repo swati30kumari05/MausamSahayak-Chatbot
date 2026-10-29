@@ -174,7 +174,7 @@ OK
 
 ---
 
-## 🎓 Viva Questions & Answers (For Swati's Defense)
+## 🎓 Common Queries & Answers
 
 **Q1: What was your specific responsibility in the capstone project?**  
 > *A:* I developed **MausamSahayak**, the farmer-facing conversational layer. My module consumes backend REST APIs to deliver live IoT sensor data, weather forecasts, flood/heat risk advisories, and crop recommendations in Hindi and English via an interactive Telegram chatbot.
